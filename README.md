@@ -1,6 +1,6 @@
 # Trabalho banco de dados
 
-### Alunos: Leonardo Menezes, Gabriel Pires, Matheus Okada, Mateus Delmondes
+### Alunos: Leonardo Menezes, Gabriel Pires, Matheus Okada, Mateus Delmondes, Pedro Spinelli
 
 Desenvolvemos este banco de dados para uma biblioteca simples como parte de um trabalho acadêmico da faculdade. O objetivo foi projetar e implementar uma estrutura eficiente que permita o gerenciamento de livros, usuários e empréstimos,utilizando o PostgreSQL como sistema de gerenciamento de banco de dados.
 
@@ -70,3 +70,8 @@ VALUES
 (1, 1, '2024-01-01'),
 (2, 2, '2024-01-03');
 ```
+
+### Conclusões
+O desenvolvimento deste banco de dados para uma biblioteca simples nos permitiu consolidar os conceitos aprendidos em sala de aula e aplicar ferramentas modernas como o PostgreSQL e o Docker. A experiência incluiu a modelagem de um sistema funcional, com tabelas bem definidas para gerenciar livros, usuários e empréstimos, garantindo integridade e consistência dos dados.
+
+Ao utilizar o Docker, pudemos criar um ambiente controlado, portátil e de fácil manutenção, que é essencial para projetos de desenvolvimento modernos. O uso de SQL para a criação e manipulação das tabelas reforçou a compreensão prática sobre consultas, relacionamentos e boas práticas de banco de dados.
